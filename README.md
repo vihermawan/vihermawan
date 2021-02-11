@@ -4,7 +4,7 @@
 <h3 align="center">About Me</h3>
 
 <div align="center">
-    -🔭 I’m currently working as parttie in <a href="https://broilerx.com/">BroilerX</a> as FullStack Developer <br/>
+    -🔭 I’m currently working as parttime in <a href="https://broilerx.com/">BroilerX</a> as FullStack Developer <br/>
     🌱 Developing use React, Redux, Redux Thunk, Graphql, Node Js, Express Js, and Laravel<br/>
     💬 Currently learn Next Js, TypeScript, and Redux Saga<br/>
     📫 How to reach me: send me mail at vickyhermawan99@mail.ugm.ac.id or twitter <a href="https://twitter.com/vihermawan">@vihermawan</a><br/>
